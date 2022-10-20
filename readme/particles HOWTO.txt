@@ -1,3 +1,17 @@
+TE_WIZSPIKE
+TE_KNIGHTSPIKE (spike hitting wall)
+TE_SPIKE (spike hitting wall)
+TE_SUPERSPIKE (spike hitting wall)
+TE_GUNSHOT (bullet hitting wall)
+TE_EXPLOSION (rocket explosion)
+TE_TAREXPLOSION (tarbaby explosion)
+TE_LIGHTNING1, TE_LIGHTNING1_END
+TE_LIGHTNING2, TE_LIGHTNING2_END
+TE_LIGHTNING3, TE_LIGHTNING3_END
+TE_LAVASPLASH
+TE_TELEPORT
+TE_EXPLOSION2
+
 Example:
 r_part blah
 {
